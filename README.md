@@ -4,7 +4,7 @@
 
 
 ### 🧑‍💻 [BEGINNER CHALLENGES] Play with Westend
-dGet tokens from the Westend faucet and use the Polkadot-JS Apps UI to make a remark on the Westend chain.
+Get tokens from the Westend faucet and use the Polkadot-JS Apps UI to make a remark on the Westend chain.
 
 #### Submission requirements
 Provide a link to the transaction on Subscan (example).
